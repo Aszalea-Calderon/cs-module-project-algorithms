@@ -2,6 +2,17 @@
 Input: a List of integers as well as an integer `k` representing the size of the sliding window
 Returns: a List of integers
 '''
+##KnoWWleddgge##
+
+
+
+##Dat fake code##
+# make a list that is the size of the sliding window. k in this instance
+# expected output is a length
+# delete the unused elements
+# return the max elements
+
+
 def sliding_window_max(nums, k):
     # Your code here
 
